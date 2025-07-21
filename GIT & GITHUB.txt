@@ -1,0 +1,17 @@
+GIT & GITHUB
+------------
+git is distributed VCS locally
+GitHub is remote service
+
+Commands:
+ git --version(to check and know the version of git and installed or not)
+ git config --list(to know the username and mail id of GitHub)
+ git config --global user.name "your user name"
+ git config --global user.Email "your login email"
+ git branch -M branchname or git branch branchname (creating branch)
+
+GIT LIFE CYCLE:
+git init  - initializes the git and file are tracked by git
+git add   - the files are staging area
+git commit- the files are in local repository
+git push  - files are pushing into remote repository
